@@ -1,0 +1,5672 @@
+{
+    "Andaman And Nicobar": [
+        {
+            "code": "PORT",
+            "name": "Port Blair",
+            "alias": "Port Blair",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Andhra Pradesh": [
+        {
+            "code": "ADKI",
+            "name": "Addanki",
+            "alias": "Addanki",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ADNI",
+            "name": "Adoni",
+            "alias": "Adoni",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ALGD",
+            "name": "Allagadda",
+            "alias": "Allagadda",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "AMAP",
+            "name": "Amalapuram",
+            "alias": "Amalapuram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ANKP",
+            "name": "Anakapalle",
+            "alias": "Anakapalle",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ANAN",
+            "name": "Anantapur",
+            "alias": "Anantapur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ANGR",
+            "name": "Angara",
+            "alias": "Angara",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ATMK",
+            "name": "Atmakur (Nellore)",
+            "alias": "Atmakur (Nellore)",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ATLI",
+            "name": "Attili",
+            "alias": "Attili",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BAPA",
+            "name": "Bapatla",
+            "alias": "Bapatla",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BATT",
+            "name": "Bhattiprolu",
+            "alias": "Bhattiprolu",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BHIM",
+            "name": "Bhimavaram",
+            "alias": "Bhimavaram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BOBB",
+            "name": "Bobbili",
+            "alias": "Bobbili",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHEE",
+            "name": "Cheepurupalli",
+            "alias": "Cheepurupalli",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHIL",
+            "name": "Chilakaluripet",
+            "alias": "Chilakaluripet",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KAKA",
+            "name": "Chinnakakani",
+            "alias": "Chinnakakani",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHDM",
+            "name": "Chinnamandem",
+            "alias": "Chinnamandem",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHPD",
+            "name": "Chintalapudi",
+            "alias": "Chintalapudi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHIR",
+            "name": "Chirala",
+            "alias": "Chirala",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CDVM",
+            "name": "Chodavaram",
+            "alias": "Chodavaram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DRLA",
+            "name": "Darlapudi",
+            "alias": "Darlapudi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DARS",
+            "name": "Darsi",
+            "alias": "Darsi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DVLR",
+            "name": "Davuluru",
+            "alias": "Davuluru",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DDMA",
+            "name": "Dharmavaram",
+            "alias": "Dharmavaram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DAKR",
+            "name": "Draksharamam",
+            "alias": "Draksharamam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ELES",
+            "name": "Elesvaram",
+            "alias": "Elesvaram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ELRU",
+            "name": "Eluru",
+            "alias": "Eluru",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GMAD",
+            "name": "G.Mamidada",
+            "alias": "G.Mamidada",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GJPT",
+            "name": "Gajapathinagaram",
+            "alias": "Gajapathinagaram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GUDI",
+            "name": "Gudivada",
+            "alias": "Gudivada",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GUDR",
+            "name": "Gudur",
+            "alias": "Gudur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GUNL",
+            "name": "Guntakal",
+            "alias": "Guntakal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GUNT",
+            "name": "Guntur",
+            "alias": "Guntur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GURZ",
+            "name": "Gurazala",
+            "alias": "Gurazala",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HANU",
+            "name": "Hanuman Junction",
+            "alias": "Hanuman Junction",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HIRA",
+            "name": "Hiramandalam",
+            "alias": "Hiramandalam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ICPR",
+            "name": "Ichchapuram",
+            "alias": "Ichchapuram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JAGG",
+            "name": "Jaggampeta",
+            "alias": "Jaggampeta",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JGGY",
+            "name": "Jaggayyapeta",
+            "alias": "Jaggayyapeta",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JANG",
+            "name": "Jangareddy Gudem",
+            "alias": "Jangareddy Gudem",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KDPA",
+            "name": "Kadapa",
+            "alias": "Kadapa",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KAIK",
+            "name": "Kaikaluru",
+            "alias": "Kaikaluru",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KAKI",
+            "name": "Kakinada",
+            "alias": "Kakinada",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KNCH",
+            "name": "Kanchikacherla",
+            "alias": "Kanchikacherla",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KAND",
+            "name": "Kandukur",
+            "alias": "Kandukur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KANI",
+            "name": "Kanigiri",
+            "alias": "Kanigiri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KADU",
+            "name": "Kankipadu",
+            "alias": "Kankipadu",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KVLI",
+            "name": "Kavali",
+            "alias": "Kavali",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KAVT",
+            "name": "Kaviti",
+            "alias": "Kaviti",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KTPE",
+            "name": "Kothapeta",
+            "alias": "Kothapeta",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KOVU",
+            "name": "Kovvur",
+            "alias": "Kovvur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KURN",
+            "name": "Kurnool",
+            "alias": "Kurnool",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MACH",
+            "name": "Macherla",
+            "alias": "Macherla",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MAPM",
+            "name": "Machilipatnam",
+            "alias": "Machilipatnam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MDNP",
+            "name": "Madanapalle",
+            "alias": "Madanapalle",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MALK",
+            "name": "Malikipuram",
+            "alias": "Malikipuram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MLKI",
+            "name": "Malikipuram",
+            "alias": "Malikipuram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MAND",
+            "name": "Mandapeta",
+            "alias": "Mandapeta",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MDAS",
+            "name": "Mandasa",
+            "alias": "Mandasa",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MARK",
+            "name": "Markapur",
+            "alias": "Markapur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MART",
+            "name": "Martur",
+            "alias": "Martur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MYLA",
+            "name": "Mylavaram",
+            "alias": "Mylavaram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NAGI",
+            "name": "Nagari",
+            "alias": "Nagari",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NDPT",
+            "name": "Naidupeta",
+            "alias": "Naidupeta",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NDGM",
+            "name": "Nandigama",
+            "alias": "Nandigama",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NADY",
+            "name": "Nandyal",
+            "alias": "Nandyal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NRPT",
+            "name": "Narasannapeta",
+            "alias": "Narasannapeta",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NSPT",
+            "name": "Narasaraopet",
+            "alias": "Narasaraopet",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NARP",
+            "name": "Narsapur",
+            "alias": "Narsapur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NARS",
+            "name": "Narsipatnam",
+            "alias": "Narsipatnam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NELL",
+            "name": "Nellore",
+            "alias": "Nellore",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NDVD",
+            "name": "Nidadavolu",
+            "alias": "Nidadavolu",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NZVD",
+            "name": "Nuzvid",
+            "alias": "Nuzvid",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ONGL",
+            "name": "Ongole",
+            "alias": "Ongole",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PLKL",
+            "name": "Palakollu",
+            "alias": "Palakollu",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PALK",
+            "name": "Palakonda",
+            "alias": "Palakonda",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PALS",
+            "name": "Palasa",
+            "alias": "Palasa",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PMMR",
+            "name": "Pamuru",
+            "alias": "Pamuru",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PRVT",
+            "name": "Parvathipuram",
+            "alias": "Parvathipuram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PEDP",
+            "name": "Peddapuram",
+            "alias": "Peddapuram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PIDU",
+            "name": "Piduguralla",
+            "alias": "Piduguralla",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PITA",
+            "name": "Pithapuram",
+            "alias": "Pithapuram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PODI",
+            "name": "Podili",
+            "alias": "Podili",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PNRU",
+            "name": "Ponnur",
+            "alias": "Ponnur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RLKD",
+            "name": "Railway Koduru",
+            "alias": "Railway Koduru",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RJMU",
+            "name": "Rajahmundry",
+            "alias": "Rajahmundry",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RJAM",
+            "name": "Rajam",
+            "alias": "Rajam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RCPR",
+            "name": "Ramachandrapuram",
+            "alias": "Ramachandrapuram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RNST",
+            "name": "Ranastalam",
+            "alias": "Ranastalam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RVPL",
+            "name": "Ravulapalem",
+            "alias": "Ravulapalem",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RYCT",
+            "name": "Rayachoti",
+            "alias": "Rayachoti",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SALU",
+            "name": "Salur",
+            "alias": "Salur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SAMA",
+            "name": "Samalkot",
+            "alias": "Samalkot",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SATL",
+            "name": "Sattenapalle",
+            "alias": "Sattenapalle",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SIGN",
+            "name": "Singarayakonda",
+            "alias": "Singarayakonda",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SRKL",
+            "name": "Srikakulam",
+            "alias": "Srikakulam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TADP",
+            "name": "Tadepalligudem",
+            "alias": "Tadepalligudem",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TDPT",
+            "name": "Tadipatri",
+            "alias": "Tadipatri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TANG",
+            "name": "Tangutur",
+            "alias": "Tangutur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TANK",
+            "name": "Tanuku",
+            "alias": "Tanuku",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TATI",
+            "name": "Tatipaka",
+            "alias": "Tatipaka",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TKLI",
+            "name": "Tekkali",
+            "alias": "Tekkali",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TENA",
+            "name": "Tenali",
+            "alias": "Tenali",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TIRU",
+            "name": "Tirupati",
+            "alias": "Tirupati",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TRVR",
+            "name": "Tiruvuru",
+            "alias": "Tiruvuru",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VIJA",
+            "name": "Vijayawada",
+            "alias": "Vijayawada",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VNKD",
+            "name": "Vinukonda",
+            "alias": "Vinukonda",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VSNP",
+            "name": "Vissannapeta",
+            "alias": "Vissannapeta",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VIZA",
+            "name": "Vizag",
+            "alias": "Vizag",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VIZI",
+            "name": "Vizianagaram",
+            "alias": "Vizianagaram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VYUR",
+            "name": "Vuyyuru",
+            "alias": "Vuyyuru",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "YERA",
+            "name": "Yerragondapalem",
+            "alias": "Yerragondapalem",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Arunachal Pradesh": [
+        {
+            "code": "ITNG",
+            "name": "Itanagar",
+            "alias": "Itanagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TAWA",
+            "name": "Tawang",
+            "alias": "Tawang",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ZIRO",
+            "name": "Ziro",
+            "alias": "Ziro",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Assam": [
+        {
+            "code": "BIJO",
+            "name": "Bijoynagar",
+            "alias": "Bijoynagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BICH",
+            "name": "Biswanath Chariali",
+            "alias": "Biswanath Chariali",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DIB",
+            "name": "Dibrugarh",
+            "alias": "Dibrugarh",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GHT",
+            "name": "Golaghat",
+            "alias": "Golaghat",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GUW",
+            "name": "Guwahati",
+            "alias": "Guwahati",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JORT",
+            "name": "Jorhat",
+            "alias": "Jorhat",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KRNJ",
+            "name": "Karimganj",
+            "alias": "Karimganj",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MANG",
+            "name": "Mangaldoi",
+            "alias": "Mangaldoi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NAAM",
+            "name": "Nagaon",
+            "alias": "Nagaon",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SIL",
+            "name": "Silchar",
+            "alias": "Silchar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SVSG",
+            "name": "Sivasagar",
+            "alias": "Sivasagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TINS",
+            "name": "Tinsukia",
+            "alias": "Tinsukia",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Bihar": [
+        {
+            "code": "BIHS",
+            "name": "Bihar Sharif",
+            "alias": "Bihar Sharif",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GAYA",
+            "name": "Gaya",
+            "alias": "Gaya",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HAJI",
+            "name": "Hajipur",
+            "alias": "Hajipur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MOTI",
+            "name": "Motihari",
+            "alias": "Motihari",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MUZA",
+            "name": "Muzaffarpur",
+            "alias": "Muzaffarpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PATN",
+            "name": "Patna",
+            "alias": "Patna",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PURN",
+            "name": "Purnea",
+            "alias": "Purnea",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Chhattisgarh": [
+        {
+            "code": "AKAL",
+            "name": "Akaltara",
+            "alias": "Akaltara",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "AMBI",
+            "name": "Ambikapur",
+            "alias": "Ambikapur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BBHA",
+            "name": "Bagbahara",
+            "alias": "Bagbahara",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BALD",
+            "name": "Balod",
+            "alias": "Balod",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BBCH",
+            "name": "Baloda Bazar",
+            "alias": "Baloda Bazar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BASN",
+            "name": "Basna",
+            "alias": "Basna",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BTAP",
+            "name": "Bhatapara",
+            "alias": "Bhatapara",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BHILAI",
+            "name": "Bhilai",
+            "alias": "Bhilai",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BILA",
+            "name": "Bilaspur",
+            "alias": "Bilaspur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BSRM",
+            "name": "Bishrampur",
+            "alias": "Bishrampur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHAM",
+            "name": "Champa",
+            "alias": "Champa",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DALL",
+            "name": "Dalli Rajhara",
+            "alias": "Dalli Rajhara",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DHMT",
+            "name": "Dhamtari",
+            "alias": "Dhamtari",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DURG",
+            "name": "Durg",
+            "alias": "Durg",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JAGD",
+            "name": "Jagdalpur",
+            "alias": "Jagdalpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KANK",
+            "name": "Kanker",
+            "alias": "Kanker",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KASD",
+            "name": "Kasdol",
+            "alias": "Kasdol",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KAWA",
+            "name": "Kawardha",
+            "alias": "Kawardha",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KHAS",
+            "name": "Kharsia",
+            "alias": "Kharsia",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KNGN",
+            "name": "Kondagaon",
+            "alias": "Kondagaon",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KRBA",
+            "name": "Korba",
+            "alias": "Korba",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KKRI",
+            "name": "Kunkuri",
+            "alias": "Kunkuri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MAMU",
+            "name": "Mahasamund",
+            "alias": "Mahasamund",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NAWA",
+            "name": "Nawapara",
+            "alias": "Nawapara",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PEND",
+            "name": "Pendra",
+            "alias": "Pendra",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PHOR",
+            "name": "Pithora",
+            "alias": "Pithora",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RAIG",
+            "name": "Raigarh",
+            "alias": "Raigarh",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RAIPUR",
+            "name": "Raipur",
+            "alias": "Raipur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RAJA",
+            "name": "Rajnandgaon",
+            "alias": "Rajnandgaon",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SAKT",
+            "name": "Sakti",
+            "alias": "Sakti",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SARH",
+            "name": "Sarangarh",
+            "alias": "Sarangarh",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SHEO",
+            "name": "Sheorinarayan",
+            "alias": "Sheorinarayan",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TNO",
+            "name": "Tilda Neora",
+            "alias": "Tilda Neora",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Egypt": [
+        {
+            "code": "CARO",
+            "name": "Cairo",
+            "alias": "Cairo",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "England": [
+        {
+            "code": "BRM",
+            "name": "Birmingham",
+            "alias": "Birmingham",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "LDN",
+            "name": "London",
+            "alias": "London",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Goa": [
+        {
+            "code": "BARD",
+            "name": "Bardez",
+            "alias": "Bardez",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BICG",
+            "name": "Bicholim",
+            "alias": "Bicholim",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GOA",
+            "name": "Goa",
+            "alias": "Goa",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MARG",
+            "name": "Margao",
+            "alias": "Margao",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PANA",
+            "name": "Panaji",
+            "alias": "Panaji",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VAGG",
+            "name": "Vasco Da Gama",
+            "alias": "Vasco Da Gama",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Gujarat": [
+        {
+            "code": "ADPR",
+            "name": "Adipur",
+            "alias": "Adipur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "AHD",
+            "name": "Ahmedabad",
+            "alias": "Ahmedabad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "AMRE",
+            "name": "Amreli",
+            "alias": "Amreli",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "AND",
+            "name": "Anand",
+            "alias": "Anand",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ANJR",
+            "name": "Anjar",
+            "alias": "Anjar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ANKL",
+            "name": "Ankleshwar",
+            "alias": "Ankleshwar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BRDL",
+            "name": "Bardoli",
+            "alias": "Bardoli",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BHAR",
+            "name": "Bharuch",
+            "alias": "Bharuch",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BHNG",
+            "name": "Bhavnagar",
+            "alias": "Bhavnagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BILI",
+            "name": "Bilimora",
+            "alias": "Bilimora",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DHGM",
+            "name": "Dahegam",
+            "alias": "Dahegam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DAHO",
+            "name": "Dahod",
+            "alias": "Dahod",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DAMA",
+            "name": "Daman",
+            "alias": "Daman",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DEES",
+            "name": "Deesa",
+            "alias": "Deesa",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DHOL",
+            "name": "Dholka",
+            "alias": "Dholka",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GDHAM",
+            "name": "Gandhidham",
+            "alias": "Gandhidham",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GNAGAR",
+            "name": "Gandhinagar",
+            "alias": "Gandhinagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HIMM",
+            "name": "Himmatnagar",
+            "alias": "Himmatnagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "IDAR",
+            "name": "Idar",
+            "alias": "Idar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JAM",
+            "name": "Jamnagar",
+            "alias": "Jamnagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JETP",
+            "name": "Jetpur",
+            "alias": "Jetpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JUGH",
+            "name": "Junagadh",
+            "alias": "Junagadh",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KADI",
+            "name": "Kadi",
+            "alias": "Kadi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KALG",
+            "name": "Kalol (Gandhinagar)",
+            "alias": "Kalol (Gandhinagar)",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PANH",
+            "name": "Kalol (Panchmahal)",
+            "alias": "Kalol (Panchmahal)",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KHBH",
+            "name": "Khambhat",
+            "alias": "Khambhat",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KHDA",
+            "name": "Kheda",
+            "alias": "Kheda",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KOSA",
+            "name": "Kosamba",
+            "alias": "Kosamba",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KTCH",
+            "name": "Kutch",
+            "alias": "Kutch",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "LUNA",
+            "name": "Lunawada",
+            "alias": "Lunawada",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MEHS",
+            "name": "Mehsana",
+            "alias": "Mehsana",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NADI",
+            "name": "Nadiad",
+            "alias": "Nadiad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NKHT",
+            "name": "Nakhatrana",
+            "alias": "Nakhatrana",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NVSR",
+            "name": "Navsari",
+            "alias": "Navsari",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PALN",
+            "name": "Palanpur",
+            "alias": "Palanpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PATA",
+            "name": "Patan",
+            "alias": "Patan",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PETL",
+            "name": "Petlad",
+            "alias": "Petlad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RAJK",
+            "name": "Rajkot",
+            "alias": "Rajkot",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RJPA",
+            "name": "Rajpipla",
+            "alias": "Rajpipla",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SANA",
+            "name": "Sanand",
+            "alias": "Sanand",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SILV",
+            "name": "Silvassa",
+            "alias": "Silvassa",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SONG",
+            "name": "Songadh",
+            "alias": "Songadh",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SURT",
+            "name": "Surat",
+            "alias": "Surat",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SRDN",
+            "name": "Surendranagar",
+            "alias": "Surendranagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "THRD",
+            "name": "Tharad",
+            "alias": "Tharad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VAD",
+            "name": "Vadodara",
+            "alias": "Vadodara",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VLSD",
+            "name": "Valsad",
+            "alias": "Valsad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VAPI",
+            "name": "Vapi",
+            "alias": "Vapi",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Haryana": [
+        {
+            "code": "AMB",
+            "name": "Ambala",
+            "alias": "Ambala",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BAHD",
+            "name": "Bahadurgarh",
+            "alias": "Bahadurgarh",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BHWN",
+            "name": "Bhiwani",
+            "alias": "Bhiwani",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DHRA",
+            "name": "Dharuhera",
+            "alias": "Dharuhera",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HISR",
+            "name": "Hisar",
+            "alias": "Hisar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JHAJ",
+            "name": "Jhajjar",
+            "alias": "Jhajjar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JIND",
+            "name": "Jind",
+            "alias": "Jind",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KAIT",
+            "name": "Kaithal",
+            "alias": "Kaithal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KARN",
+            "name": "Karnal",
+            "alias": "Karnal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KURU",
+            "name": "Kurukshetra",
+            "alias": "Kurukshetra",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PLWL",
+            "name": "Palwal",
+            "alias": "Palwal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PNCH",
+            "name": "Panchkula",
+            "alias": "Panchkula",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PAN",
+            "name": "Panipat",
+            "alias": "Panipat",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PINJ",
+            "name": "Pinjore",
+            "alias": "Pinjore",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "REWA",
+            "name": "Rewari",
+            "alias": "Rewari",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ROH",
+            "name": "Rohtak",
+            "alias": "Rohtak",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SISA",
+            "name": "Sirsa",
+            "alias": "Sirsa",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RAIH",
+            "name": "Sonipat",
+            "alias": "Sonipat",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "YAMU",
+            "name": "Yamunanagar",
+            "alias": "Yamunanagar",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Himachal Pradesh": [
+        {
+            "code": "BADD",
+            "name": "Baddi",
+            "alias": "Baddi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BAIJ",
+            "name": "Baijnath",
+            "alias": "Baijnath",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BHUN",
+            "name": "Bhuntar",
+            "alias": "Bhuntar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DMSL",
+            "name": "Dharamsala",
+            "alias": "Dharamsala",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HAMI",
+            "name": "Hamirpur (HP)",
+            "alias": "Hamirpur (HP)",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KANG",
+            "name": "Kangra",
+            "alias": "Kangra",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KULU",
+            "name": "Kullu",
+            "alias": "Kullu",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MANA",
+            "name": "Manali",
+            "alias": "Manali",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MIHP",
+            "name": "Mandi",
+            "alias": "Mandi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PALM",
+            "name": "Palampur",
+            "alias": "Palampur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SMLA",
+            "name": "Shimla",
+            "alias": "Shimla",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SCO",
+            "name": "Solan",
+            "alias": "Solan",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Jammu and Kashmir": [
+        {
+            "code": "JAMM",
+            "name": "Jammu",
+            "alias": "Jammu",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KATH",
+            "name": "Kathua",
+            "alias": "Kathua",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KATR",
+            "name": "Katra",
+            "alias": "Katra",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "LEHA",
+            "name": "Ladakh",
+            "alias": "Ladakh",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "LEHL",
+            "name": "Leh",
+            "alias": "Leh",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SRNG",
+            "name": "Srinagar",
+            "alias": "Srinagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "UDHM",
+            "name": "Udhampur",
+            "alias": "Udhampur",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Jharkhand": [
+        {
+            "code": "BHAI",
+            "name": "Barhi",
+            "alias": "Barhi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BARQ",
+            "name": "Barwadih",
+            "alias": "Barwadih",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BOKA",
+            "name": "Bokaro",
+            "alias": "Bokaro",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DOGH",
+            "name": "Deoghar",
+            "alias": "Deoghar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DHAN",
+            "name": "Dhanbad",
+            "alias": "Dhanbad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HAZA",
+            "name": "Hazaribagh",
+            "alias": "Hazaribagh",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JMDP",
+            "name": "Jamshedpur",
+            "alias": "Jamshedpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RANC",
+            "name": "Ranchi",
+            "alias": "Ranchi",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Jordan": [
+        {
+            "code": "JRD",
+            "name": "Jordan",
+            "alias": "Jordan",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Karnataka": [
+        {
+            "code": "BAGA",
+            "name": "Bagalkot",
+            "alias": "Bagalkot",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BAND",
+            "name": "Baindur",
+            "alias": "Baindur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BELG",
+            "name": "Belagavi (Belagaum)",
+            "alias": "Belagavi (Belagaum)",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BLRY",
+            "name": "Bellary",
+            "alias": "Bellary",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BANG",
+            "name": "Bengaluru",
+            "alias": "Bengaluru",
+            "IsCollectionActive": "Y"
+        },
+        {
+            "code": "BDVT",
+            "name": "Bhadravati",
+            "alias": "Bhadravati",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BAKL",
+            "name": "Bhatkal",
+            "alias": "Bhatkal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BIDI",
+            "name": "Bidadi",
+            "alias": "Bidadi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BIDR",
+            "name": "Bidar",
+            "alias": "Bidar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHNN",
+            "name": "Channarayapatna",
+            "alias": "Channarayapatna",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHKA",
+            "name": "Chickmagaluru",
+            "alias": "Chickmagaluru",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHIK",
+            "name": "Chikkaballapur",
+            "alias": "Chikkaballapur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHIT",
+            "name": "Chitradurga",
+            "alias": "Chitradurga",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DAND",
+            "name": "Dandeli",
+            "alias": "Dandeli",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DAVA",
+            "name": "Davanagere",
+            "alias": "Davanagere",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DHAW",
+            "name": "Dharwad",
+            "alias": "Dharwad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GADG",
+            "name": "Gadag",
+            "alias": "Gadag",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GAVT",
+            "name": "Gangavati",
+            "alias": "Gangavati",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GAUR",
+            "name": "Gauribidanur",
+            "alias": "Gauribidanur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GUND",
+            "name": "Gundlupet",
+            "alias": "Gundlupet",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HMPI",
+            "name": "Hampi",
+            "alias": "Hampi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HRHR",
+            "name": "Harihar",
+            "alias": "Harihar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HASN",
+            "name": "Hassan",
+            "alias": "Hassan",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HRE",
+            "name": "Haveri",
+            "alias": "Haveri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HOLE",
+            "name": "Holenarasipura",
+            "alias": "Holenarasipura",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HNVR",
+            "name": "Honnavara",
+            "alias": "Honnavara",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HOSP",
+            "name": "Hospet",
+            "alias": "Hospet",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HUBL",
+            "name": "Hubballi (Hubli)",
+            "alias": "Hubballi (Hubli)",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GULB",
+            "name": "Kalaburagi (Gulbarga)",
+            "alias": "Kalaburagi (Gulbarga)",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KARK",
+            "name": "Karkala",
+            "alias": "Karkala",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KWAR",
+            "name": "Karwar",
+            "alias": "Karwar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "COOR",
+            "name": "Kodagu (Coorg)",
+            "alias": "Kodagu (Coorg)",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "OLAR",
+            "name": "Kolar",
+            "alias": "Kolar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KEKE",
+            "name": "Krishnarajpete (K.R.Pete)",
+            "alias": "Krishnarajpete (K.R.Pete)",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MADI",
+            "name": "Madikeri",
+            "alias": "Madikeri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MND",
+            "name": "Mandya",
+            "alias": "Mandya",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MLR",
+            "name": "Mangaluru (Mangalore)",
+            "alias": "Mangaluru (Mangalore)",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MANI",
+            "name": "Manipal",
+            "alias": "Manipal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MOOD",
+            "name": "Moodbidri",
+            "alias": "Moodbidri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MDGR",
+            "name": "Mudigere",
+            "alias": "Mudigere",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MYS",
+            "name": "Mysuru (Mysore)",
+            "alias": "Mysuru (Mysore)",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NAGA",
+            "name": "Nagamangala",
+            "alias": "Nagamangala",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PAVA",
+            "name": "Pandavapura",
+            "alias": "Pandavapura",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PERI",
+            "name": "Periyapatna",
+            "alias": "Periyapatna",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RAUR",
+            "name": "Raichur",
+            "alias": "Raichur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RANG",
+            "name": "Ramanagara",
+            "alias": "Ramanagara",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RANE",
+            "name": "Ranebennur",
+            "alias": "Ranebennur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SHIR",
+            "name": "Shirali",
+            "alias": "Shirali",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SHIA",
+            "name": "Shivamogga",
+            "alias": "Shivamogga",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SIND",
+            "name": "Sindhanur",
+            "alias": "Sindhanur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TINA",
+            "name": "Tirumakudalu Narasipura",
+            "alias": "Tirumakudalu Narasipura",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TUMK",
+            "name": "Tumakuru (Tumkur)",
+            "alias": "Tumakuru (Tumkur)",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "UDUP",
+            "name": "Udupi",
+            "alias": "Udupi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VIJP",
+            "name": "Vijayapura (Bengaluru Rural)",
+            "alias": "Vijayapura (Bengaluru Rural)",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VJPR",
+            "name": "Vijayapura (Bijapur)",
+            "alias": "Vijayapura (Bijapur)",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Katunayake": [
+        {
+            "code": "KTNK",
+            "name": "Katunayake",
+            "alias": "Katunayake",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Kerala": [
+        {
+            "code": "ALPZ",
+            "name": "Alappuzha",
+            "alias": "Alappuzha",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ANHL",
+            "name": "Anchal",
+            "alias": "Anchal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ANGA",
+            "name": "Angamaly",
+            "alias": "Angamaly",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CALC",
+            "name": "Calicut",
+            "alias": "Calicut",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CNSY",
+            "name": "Changanassery",
+            "alias": "Changanassery",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHEG",
+            "name": "Chengannur",
+            "alias": "Chengannur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ERNK",
+            "name": "Ernakulam",
+            "alias": "Ernakulam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HRPD",
+            "name": "Haripad",
+            "alias": "Haripad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "IDKI",
+            "name": "Idukki",
+            "alias": "Idukki",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "IRNK",
+            "name": "Irinjalakuda",
+            "alias": "Irinjalakuda",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KDKL",
+            "name": "Kadakkal",
+            "alias": "Kadakkal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KANN",
+            "name": "Kannur",
+            "alias": "Kannur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KARG",
+            "name": "Karunagapally",
+            "alias": "Karunagapally",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KASA",
+            "name": "Kasaragod",
+            "alias": "Kasaragod",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "AWCK",
+            "name": "Kattappana",
+            "alias": "Kattappana",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KOCH",
+            "name": "Kochi",
+            "alias": "Kochi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KODU",
+            "name": "Kodungallur",
+            "alias": "Kodungallur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KOLM",
+            "name": "Kollam",
+            "alias": "Kollam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KTYM",
+            "name": "Kottayam",
+            "alias": "Kottayam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KUNN",
+            "name": "Kunnamkulam",
+            "alias": "Kunnamkulam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MALP",
+            "name": "Malappuram",
+            "alias": "Malappuram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MVLR",
+            "name": "Mavellikara",
+            "alias": "Mavellikara",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MUVA",
+            "name": "Muvattupuzha",
+            "alias": "Muvattupuzha",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PALL",
+            "name": "Pala",
+            "alias": "Pala",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PLKK",
+            "name": "Palakkad",
+            "alias": "Palakkad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PTNM",
+            "name": "Pathanamthitta",
+            "alias": "Pathanamthitta",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PTPM",
+            "name": "Pathanapuram",
+            "alias": "Pathanapuram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PTMB",
+            "name": "Pattambi",
+            "alias": "Pattambi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PAYY",
+            "name": "Payyanur",
+            "alias": "Payyanur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PLYN",
+            "name": "Pazhayannur",
+            "alias": "Pazhayannur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PNTM",
+            "name": "Perinthalmanna",
+            "alias": "Perinthalmanna",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PUNA",
+            "name": "Punalur",
+            "alias": "Punalur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RANN",
+            "name": "Ranni",
+            "alias": "Ranni",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SHNR",
+            "name": "Shoranur",
+            "alias": "Shoranur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "THAY",
+            "name": "Thalassery",
+            "alias": "Thalassery",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "THAL",
+            "name": "Thalayolaparambu",
+            "alias": "Thalayolaparambu",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "THVL",
+            "name": "Thiruvalla",
+            "alias": "Thiruvalla",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "THOD",
+            "name": "Thodupuzha",
+            "alias": "Thodupuzha",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "THSR",
+            "name": "Thrissur",
+            "alias": "Thrissur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TRIV",
+            "name": "Trivandrum",
+            "alias": "Trivandrum",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VDKR",
+            "name": "Vadakara",
+            "alias": "Vadakara",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ACVC",
+            "name": "Vadakkanchery",
+            "alias": "Vadakkanchery",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "WAYA",
+            "name": "Wayanad",
+            "alias": "Wayanad",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Madhya Pradesh": [
+        {
+            "code": "AGOR",
+            "name": "Agar Malwa",
+            "alias": "Agar Malwa",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "AKMP",
+            "name": "Ashoknagar",
+            "alias": "Ashoknagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ASTA",
+            "name": "Ashta",
+            "alias": "Ashta",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BADA",
+            "name": "Badnagar",
+            "alias": "Badnagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BADR",
+            "name": "Badnawar",
+            "alias": "Badnawar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BLGT",
+            "name": "Balaghat",
+            "alias": "Balaghat",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BARH",
+            "name": "Barwaha",
+            "alias": "Barwaha",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BRWN",
+            "name": "Barwani",
+            "alias": "Barwani",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BETU",
+            "name": "Betul",
+            "alias": "Betul",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BHOP",
+            "name": "Bhopal",
+            "alias": "Bhopal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BIAR",
+            "name": "Biaora",
+            "alias": "Biaora",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BRHP",
+            "name": "Burhanpur",
+            "alias": "Burhanpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHHT",
+            "name": "Chhatarpur",
+            "alias": "Chhatarpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHIN",
+            "name": "Chhindwara",
+            "alias": "Chhindwara",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DABR",
+            "name": "Dabra",
+            "alias": "Dabra",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DAMO",
+            "name": "Damoh",
+            "alias": "Damoh",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DEWAS",
+            "name": "Dewas",
+            "alias": "Dewas",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DMND",
+            "name": "Dhamnod",
+            "alias": "Dhamnod",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DARH",
+            "name": "Dhar",
+            "alias": "Dhar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GDWR",
+            "name": "Gadarwara",
+            "alias": "Gadarwara",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GANJ",
+            "name": "Ganjbasoda",
+            "alias": "Ganjbasoda",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GOGA",
+            "name": "Gogawa",
+            "alias": "Gogawa",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GTGN",
+            "name": "Gotegaon",
+            "alias": "Gotegaon",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GUNA",
+            "name": "Guna",
+            "alias": "Guna",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GWAL",
+            "name": "Gwalior",
+            "alias": "Gwalior",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HRDA",
+            "name": "Harda",
+            "alias": "Harda",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "IND",
+            "name": "Indore",
+            "alias": "Indore",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ITAR",
+            "name": "Itarsi",
+            "alias": "Itarsi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JABL",
+            "name": "Jabalpur",
+            "alias": "Jabalpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JAOR",
+            "name": "Jaora",
+            "alias": "Jaora",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JHAB",
+            "name": "Jhabua",
+            "alias": "Jhabua",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KARE",
+            "name": "Kareli",
+            "alias": "Kareli",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KATN",
+            "name": "Katni",
+            "alias": "Katni",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KHCU",
+            "name": "Khachrod",
+            "alias": "Khachrod",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KHDW",
+            "name": "Khandwa",
+            "alias": "Khandwa",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KHAR",
+            "name": "Khargone",
+            "alias": "Khargone",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KUKS",
+            "name": "Kukshi",
+            "alias": "Kukshi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MANW",
+            "name": "Manawar",
+            "alias": "Manawar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MNDS",
+            "name": "Mandsaur",
+            "alias": "Mandsaur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MRMP",
+            "name": "Morena",
+            "alias": "Morena",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NAGD",
+            "name": "Nagda",
+            "alias": "Nagda",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NARR",
+            "name": "Narsinghpur",
+            "alias": "Narsinghpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NMCH",
+            "name": "Neemuch",
+            "alias": "Neemuch",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PAND",
+            "name": "Pandhana",
+            "alias": "Pandhana",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PIPY",
+            "name": "Pipariya",
+            "alias": "Pipariya",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PITH",
+            "name": "Pithampur",
+            "alias": "Pithampur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RAJP",
+            "name": "Rajpur",
+            "alias": "Rajpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RATL",
+            "name": "Ratlam",
+            "alias": "Ratlam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RWAA",
+            "name": "Rewa",
+            "alias": "Rewa",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SAMP",
+            "name": "Sagar",
+            "alias": "Sagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SNWD",
+            "name": "Sanawad",
+            "alias": "Sanawad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SARA",
+            "name": "Sarangpur",
+            "alias": "Sarangpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SARN",
+            "name": "Sarni",
+            "alias": "Sarni",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SATN",
+            "name": "Satna",
+            "alias": "Satna",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SEHO",
+            "name": "Sehore",
+            "alias": "Sehore",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SEND",
+            "name": "Sendhwa",
+            "alias": "Sendhwa",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SEON",
+            "name": "Seoni",
+            "alias": "Seoni",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SEMA",
+            "name": "Seoni Malwa",
+            "alias": "Seoni Malwa",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SHAH",
+            "name": "Shahdol",
+            "alias": "Shahdol",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SHPR",
+            "name": "Sheopur",
+            "alias": "Sheopur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SHIV",
+            "name": "Shivpuri",
+            "alias": "Shivpuri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SNGR",
+            "name": "Singrauli",
+            "alias": "Singrauli",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SONH",
+            "name": "Sonkatch",
+            "alias": "Sonkatch",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "UJJN",
+            "name": "Ujjain",
+            "alias": "Ujjain",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VIDI",
+            "name": "Vidisha",
+            "alias": "Vidisha",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Maharashtra": [
+        {
+            "code": "AHMED",
+            "name": "Ahmednagar",
+            "alias": "Ahmednagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "AKLJ",
+            "name": "Akluj",
+            "alias": "Akluj",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "AKOL",
+            "name": "Akola",
+            "alias": "Akola",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ALBG",
+            "name": "Alibaug",
+            "alias": "Alibaug",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "AMLN",
+            "name": "Amalner",
+            "alias": "Amalner",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "AMRA",
+            "name": "Amravati",
+            "alias": "Amravati",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "AURA",
+            "name": "Aurangabad",
+            "alias": "Aurangabad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BARA",
+            "name": "Baramati",
+            "alias": "Baramati",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BEED",
+            "name": "Beed",
+            "alias": "Beed",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BHIW",
+            "name": "Bhiwandi",
+            "alias": "Bhiwandi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BOIS",
+            "name": "Boisar",
+            "alias": "Boisar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BULD",
+            "name": "Buldana",
+            "alias": "Buldana",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHLS",
+            "name": "Chalisgaon",
+            "alias": "Chalisgaon",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHAN",
+            "name": "Chandrapur",
+            "alias": "Chandrapur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHIH",
+            "name": "Chikhli",
+            "alias": "Chikhli",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DARA",
+            "name": "Darwha",
+            "alias": "Darwha",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DEOD",
+            "name": "Deogadh",
+            "alias": "Deogadh",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DHLE",
+            "name": "Dhule",
+            "alias": "Dhule",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DIGR",
+            "name": "Digras",
+            "alias": "Digras",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GHAT",
+            "name": "Ghatanji",
+            "alias": "Ghatanji",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GNDA",
+            "name": "Gondia",
+            "alias": "Gondia",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GUHA",
+            "name": "Guhagar",
+            "alias": "Guhagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HING",
+            "name": "Hingoli",
+            "alias": "Hingoli",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ICHL",
+            "name": "Ichalkaranji",
+            "alias": "Ichalkaranji",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "INDA",
+            "name": "Indapur",
+            "alias": "Indapur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JALG",
+            "name": "Jalgaon",
+            "alias": "Jalgaon",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JALN",
+            "name": "Jalna",
+            "alias": "Jalna",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JAMN",
+            "name": "Jamner",
+            "alias": "Jamner",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KARD",
+            "name": "Karad",
+            "alias": "Karad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KLAD",
+            "name": "Karanja Lad",
+            "alias": "Karanja Lad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KART",
+            "name": "Karjat",
+            "alias": "Karjat",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KHED",
+            "name": "Khed",
+            "alias": "Khed",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KHOP",
+            "name": "Khopoli",
+            "alias": "Khopoli",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KOLH",
+            "name": "Kolhapur",
+            "alias": "Kolhapur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "LAT",
+            "name": "Latur",
+            "alias": "Latur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "LAVA",
+            "name": "Lavasa",
+            "alias": "Lavasa",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "LONA",
+            "name": "Lonar",
+            "alias": "Lonar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "LNVL",
+            "name": "Lonavala",
+            "alias": "Lonavala",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MHAD",
+            "name": "Mahad",
+            "alias": "Mahad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MALE",
+            "name": "Malegaon",
+            "alias": "Malegaon",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MNMD",
+            "name": "Manmad",
+            "alias": "Manmad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MUMBAI",
+            "name": "Mumbai",
+            "alias": "Mumbai",
+            "IsCollectionActive": "Y"
+        },
+        {
+            "code": "NAGO",
+            "name": "Nagothane",
+            "alias": "Nagothane",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NAGP",
+            "name": "Nagpur",
+            "alias": "Nagpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NAND",
+            "name": "Nanded",
+            "alias": "Nanded",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NDNB",
+            "name": "Nandurbar",
+            "alias": "Nandurbar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NASK",
+            "name": "Nashik",
+            "alias": "Nashik",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NERP",
+            "name": "Ner Parsopant",
+            "alias": "Ner Parsopant",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "OSMA",
+            "name": "Osmanabad",
+            "alias": "Osmanabad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PALG",
+            "name": "Palghar",
+            "alias": "Palghar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PANC",
+            "name": "Panchgani",
+            "alias": "Panchgani",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PANR",
+            "name": "Pandharkawada",
+            "alias": "Pandharkawada",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PNDH",
+            "name": "Pandharpur",
+            "alias": "Pandharpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PARA",
+            "name": "Paratwada",
+            "alias": "Paratwada",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PARB",
+            "name": "Parbhani",
+            "alias": "Parbhani",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PEN",
+            "name": "Pen",
+            "alias": "Pen",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PHAL",
+            "name": "Phaltan",
+            "alias": "Phaltan",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PIMP",
+            "name": "Pimpri",
+            "alias": "Pimpri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PUNE",
+            "name": "Pune",
+            "alias": "Pune",
+            "IsCollectionActive": "Y"
+        },
+        {
+            "code": "PUSD",
+            "name": "Pusad",
+            "alias": "Pusad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RAHU",
+            "name": "Rahuri",
+            "alias": "Rahuri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RAI",
+            "name": "Raigad",
+            "alias": "Raigad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RATN",
+            "name": "Ratnagiri",
+            "alias": "Ratnagiri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SANG",
+            "name": "Sangli",
+            "alias": "Sangli",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SNGO",
+            "name": "Sangola",
+            "alias": "Sangola",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SAOR",
+            "name": "Saoner",
+            "alias": "Saoner",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "STNA",
+            "name": "Satana",
+            "alias": "Satana",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SATA",
+            "name": "Satara",
+            "alias": "Satara",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SELU",
+            "name": "Selu",
+            "alias": "Selu",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SHHA",
+            "name": "Shahada",
+            "alias": "Shahada",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SHUR",
+            "name": "Shrirampur",
+            "alias": "Shrirampur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SOLA",
+            "name": "Solapur",
+            "alias": "Solapur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TRPM",
+            "name": "Tarapur",
+            "alias": "Tarapur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TMB",
+            "name": "Tembhode",
+            "alias": "Tembhode",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TEST",
+            "name": "Test",
+            "alias": "Test",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TSTO",
+            "name": "Testo",
+            "alias": "Testo",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "UDGR",
+            "name": "Udgir",
+            "alias": "Udgir",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "WANI",
+            "name": "Wani",
+            "alias": "Wani",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "WARD",
+            "name": "Wardha",
+            "alias": "Wardha",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "WRRA",
+            "name": "Warora",
+            "alias": "Warora",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "WASH",
+            "name": "Washim",
+            "alias": "Washim",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "YAVA",
+            "name": "Yavatmal",
+            "alias": "Yavatmal",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Malaysia": [
+        {
+            "code": "MALY",
+            "name": "Malaysia",
+            "alias": "Malaysia",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SELA",
+            "name": "Selangor Darul Ehsan",
+            "alias": "Selangor Darul Ehsan",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SEPA",
+            "name": "Sepang",
+            "alias": "Sepang",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Meghalaya": [
+        {
+            "code": "CHPU",
+            "name": "Cherrapunji",
+            "alias": "Cherrapunji",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RIBH",
+            "name": "RiBhoi",
+            "alias": "RiBhoi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RNG",
+            "name": "Rongjeng",
+            "alias": "Rongjeng",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SHLG",
+            "name": "Shillong",
+            "alias": "Shillong",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Nagaland": [
+        {
+            "code": "DMPR",
+            "name": "Dimapur",
+            "alias": "Dimapur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KOHI",
+            "name": "Kohima",
+            "alias": "Kohima",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "NCR": [
+        {
+            "code": "GRET",
+            "name": "Greater Noida",
+            "alias": "Greater Noida",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NCR",
+            "name": "National Capital Region (NCR)",
+            "alias": "National Capital Region (NCR)",
+            "IsCollectionActive": "Y"
+        }
+    ],
+    "Nepal": [
+        {
+            "code": "KATM",
+            "name": "Kathmandu",
+            "alias": "Kathmandu",
+            "IsCollectionActive": "Y"
+        }
+    ],
+    "Netherlands": [
+        {
+            "code": "AZT",
+            "name": "Amsterdam",
+            "alias": "Amsterdam",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Odisha": [
+        {
+            "code": "ANPR",
+            "name": "Anandapur",
+            "alias": "Anandapur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ANGL",
+            "name": "Angul",
+            "alias": "Angul",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ASIK",
+            "name": "Asika",
+            "alias": "Asika",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ATHG",
+            "name": "Athagarh",
+            "alias": "Athagarh",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BLSR",
+            "name": "Balasore",
+            "alias": "Balasore",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BANK",
+            "name": "Banki",
+            "alias": "Banki",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BARG",
+            "name": "Bargarh",
+            "alias": "Bargarh",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BARI",
+            "name": "Baripada",
+            "alias": "Baripada",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BEGU",
+            "name": "Beguniapada",
+            "alias": "Beguniapada",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BERP",
+            "name": "Berhampur",
+            "alias": "Berhampur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BHAW",
+            "name": "Bhawanipatna",
+            "alias": "Bhawanipatna",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BHUB",
+            "name": "Bhubaneshwar",
+            "alias": "Bhubaneshwar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BJNG",
+            "name": "Brajrajnagar",
+            "alias": "Brajrajnagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CUTT",
+            "name": "Cuttack",
+            "alias": "Cuttack",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JAJP",
+            "name": "Jajpur Road",
+            "alias": "Jajpur Road",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JATN",
+            "name": "Jatni",
+            "alias": "Jatni",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JEYP",
+            "name": "Jeypore",
+            "alias": "Jeypore",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JRSG",
+            "name": "Jharsuguda",
+            "alias": "Jharsuguda",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KNJH",
+            "name": "Keonjhar",
+            "alias": "Keonjhar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KEGA",
+            "name": "Kesinga",
+            "alias": "Kesinga",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MUNI",
+            "name": "Muniguda",
+            "alias": "Muniguda",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NIMA",
+            "name": "Nimapara",
+            "alias": "Nimapara",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PRKM",
+            "name": "Paralakhemundi",
+            "alias": "Paralakhemundi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PURI",
+            "name": "Puri",
+            "alias": "Puri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RJGR",
+            "name": "Rajgangpur",
+            "alias": "Rajgangpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RKOR",
+            "name": "Rourkela",
+            "alias": "Rourkela",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SAMB",
+            "name": "Sambalpur",
+            "alias": "Sambalpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SUND",
+            "name": "Sundargarh",
+            "alias": "Sundargarh",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Punjab": [
+        {
+            "code": "ABOR",
+            "name": "Abohar",
+            "alias": "Abohar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "AHMG",
+            "name": "Ahmedgarh",
+            "alias": "Ahmedgarh",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "AMRI",
+            "name": "Amritsar",
+            "alias": "Amritsar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BAPU",
+            "name": "Bagha Purana",
+            "alias": "Bagha Purana",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BNGA",
+            "name": "Banga",
+            "alias": "Banga",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BAR",
+            "name": "Barnala",
+            "alias": "Barnala",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BHAT",
+            "name": "Bathinda",
+            "alias": "Bathinda",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHD",
+            "name": "Chandigarh",
+            "alias": "Chandigarh",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DASU",
+            "name": "Dasuya",
+            "alias": "Dasuya",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DHRI",
+            "name": "Dhuri",
+            "alias": "Dhuri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DINA",
+            "name": "Dinanagar",
+            "alias": "Dinanagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "FASA",
+            "name": "Fatehgarh Sahib",
+            "alias": "Fatehgarh Sahib",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "FAKA",
+            "name": "Fazilka",
+            "alias": "Fazilka",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "FRZR",
+            "name": "Firozpur",
+            "alias": "Firozpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GSPR",
+            "name": "Gurdaspur",
+            "alias": "Gurdaspur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HOSH",
+            "name": "Hoshiarpur",
+            "alias": "Hoshiarpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JGRO",
+            "name": "Jagraon",
+            "alias": "Jagraon",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JLAB",
+            "name": "Jalalabad",
+            "alias": "Jalalabad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JALA",
+            "name": "Jalandhar",
+            "alias": "Jalandhar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KHAN",
+            "name": "Khanna",
+            "alias": "Khanna",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KOTK",
+            "name": "Kotkapura",
+            "alias": "Kotkapura",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "LUDH",
+            "name": "Ludhiana",
+            "alias": "Ludhiana",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MALR",
+            "name": "Malerkotla",
+            "alias": "Malerkotla",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MALO",
+            "name": "Malout",
+            "alias": "Malout",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MNSA",
+            "name": "Mansa",
+            "alias": "Mansa",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MOGA",
+            "name": "Moga",
+            "alias": "Moga",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MOHL",
+            "name": "Mohali",
+            "alias": "Mohali",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MORI",
+            "name": "Morinda",
+            "alias": "Morinda",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MUKE",
+            "name": "Mukerian",
+            "alias": "Mukerian",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MKST",
+            "name": "Muktsar",
+            "alias": "Muktsar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NABH",
+            "name": "Nabha",
+            "alias": "Nabha",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NAKO",
+            "name": "Nakodar",
+            "alias": "Nakodar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NAVN",
+            "name": "Nawanshahr",
+            "alias": "Nawanshahr",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PATH",
+            "name": "Pathankot",
+            "alias": "Pathankot",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PATI",
+            "name": "Patiala",
+            "alias": "Patiala",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PATR",
+            "name": "Patran",
+            "alias": "Patran",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RARA",
+            "name": "Rajpura",
+            "alias": "Rajpura",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RUPN",
+            "name": "Rupnagar",
+            "alias": "Rupnagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SANR",
+            "name": "Sangrur",
+            "alias": "Sangrur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ZEER",
+            "name": "Zeerakpur",
+            "alias": "Zeerakpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ZIRK",
+            "name": "Zirakpur",
+            "alias": "Zirakpur",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Rajasthan": [
+        {
+            "code": "ABRD",
+            "name": "Abu Road",
+            "alias": "Abu Road",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "AJMER",
+            "name": "Ajmer",
+            "alias": "Ajmer",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ALSR",
+            "name": "Alsisar (Rajasthan)",
+            "alias": "Alsisar (Rajasthan)",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ALWR",
+            "name": "Alwar",
+            "alias": "Alwar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BALO",
+            "name": "Balotra",
+            "alias": "Balotra",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BANS",
+            "name": "Banswara",
+            "alias": "Banswara",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BARM",
+            "name": "Barmer",
+            "alias": "Barmer",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BANY",
+            "name": "Bayana",
+            "alias": "Bayana",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BEAW",
+            "name": "Beawar",
+            "alias": "Beawar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BHRT",
+            "name": "Bharatpur",
+            "alias": "Bharatpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BHIL",
+            "name": "Bhilwara",
+            "alias": "Bhilwara",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BHWD",
+            "name": "Bhiwadi",
+            "alias": "Bhiwadi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BIK",
+            "name": "Bikaner",
+            "alias": "Bikaner",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CWRJ",
+            "name": "Chirawa",
+            "alias": "Chirawa",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHRU",
+            "name": "Churu",
+            "alias": "Churu",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DAUS",
+            "name": "Dausa",
+            "alias": "Dausa",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DHUR",
+            "name": "Dholpur",
+            "alias": "Dholpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DUNG",
+            "name": "Dungarpur",
+            "alias": "Dungarpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HIND",
+            "name": "Hindaun City",
+            "alias": "Hindaun City",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JAIP",
+            "name": "Jaipur",
+            "alias": "Jaipur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JSMR",
+            "name": "Jaisalmer",
+            "alias": "Jaisalmer",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JODH",
+            "name": "Jodhpur",
+            "alias": "Jodhpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KEKR",
+            "name": "Kekri",
+            "alias": "Kekri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KISH",
+            "name": "Kishangarh",
+            "alias": "Kishangarh",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KOTA",
+            "name": "Kota",
+            "alias": "Kota",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NEEM",
+            "name": "Neemrana",
+            "alias": "Neemrana",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NIPA",
+            "name": "Nimbahera",
+            "alias": "Nimbahera",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PADA",
+            "name": "Padampur",
+            "alias": "Padampur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PHLD",
+            "name": "Phalodi",
+            "alias": "Phalodi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PILA",
+            "name": "Pilani",
+            "alias": "Pilani",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PTRT",
+            "name": "Pratapgarh (Rajasthan)",
+            "alias": "Pratapgarh (Rajasthan)",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RSNG",
+            "name": "Raisinghnagar",
+            "alias": "Raisinghnagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SAGA",
+            "name": "Sagwara",
+            "alias": "Sagwara",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SWMP",
+            "name": "Sawai Madhopur",
+            "alias": "Sawai Madhopur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SIKR",
+            "name": "Sikar",
+            "alias": "Sikar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SRIG",
+            "name": "Sri Ganganagar",
+            "alias": "Sri Ganganagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TONK",
+            "name": "Tonk",
+            "alias": "Tonk",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "UDAI",
+            "name": "Udaipur",
+            "alias": "Udaipur",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Sikkim": [
+        {
+            "code": "GANG",
+            "name": "Gangtok",
+            "alias": "Gangtok",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "YUKS",
+            "name": "Yuksom",
+            "alias": "Yuksom",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Singapore": [
+        {
+            "code": "SING",
+            "name": "Singapore",
+            "alias": "Singapore",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Tamil Nadu": [
+        {
+            "code": "ALKM",
+            "name": "Alangulam",
+            "alias": "Alangulam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "AMBR",
+            "name": "Ambur",
+            "alias": "Ambur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ARAK",
+            "name": "Arakkonam",
+            "alias": "Arakkonam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ARIY",
+            "name": "Ariyalur",
+            "alias": "Ariyalur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ARNI",
+            "name": "Arni",
+            "alias": "Arni",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ARUP",
+            "name": "Aruppukottai",
+            "alias": "Aruppukottai",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BTGD",
+            "name": "Batlagundu",
+            "alias": "Batlagundu",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BHNI",
+            "name": "Bhavani",
+            "alias": "Bhavani",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BODI",
+            "name": "Bodinayakanur",
+            "alias": "Bodinayakanur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHEN",
+            "name": "Chennai",
+            "alias": "Chennai",
+            "IsCollectionActive": "Y"
+        },
+        {
+            "code": "CHID",
+            "name": "Chidambaram",
+            "alias": "Chidambaram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CNPT",
+            "name": "Chinnalapatti",
+            "alias": "Chinnalapatti",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "COIM",
+            "name": "Coimbatore",
+            "alias": "Coimbatore",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CUDD",
+            "name": "Cuddalore",
+            "alias": "Cuddalore",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CMBM",
+            "name": "Cumbum",
+            "alias": "Cumbum",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DEVA",
+            "name": "Devakottai",
+            "alias": "Devakottai",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DHAR",
+            "name": "Dharapuram",
+            "alias": "Dharapuram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DMPI",
+            "name": "Dharmapuri",
+            "alias": "Dharmapuri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DIND",
+            "name": "Dindigul",
+            "alias": "Dindigul",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "EROD",
+            "name": "Erode",
+            "alias": "Erode",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GOBI",
+            "name": "Gobichettipalayam",
+            "alias": "Gobichettipalayam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GDTM",
+            "name": "Gudiyatham",
+            "alias": "Gudiyatham",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HSUR",
+            "name": "Hosur",
+            "alias": "Hosur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "IDPI",
+            "name": "Idappadi",
+            "alias": "Idappadi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KALA",
+            "name": "Kalakkadu",
+            "alias": "Kalakkadu",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KNPM",
+            "name": "Kanchipuram",
+            "alias": "Kanchipuram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KNDM",
+            "name": "Kandamangalam",
+            "alias": "Kandamangalam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KGKM",
+            "name": "Kangayam",
+            "alias": "Kangayam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KAKM",
+            "name": "Kanyakumari",
+            "alias": "Kanyakumari",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KARA",
+            "name": "Karaikal",
+            "alias": "Karaikal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KARU",
+            "name": "Karur",
+            "alias": "Karur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KOMA",
+            "name": "Komarapalayam",
+            "alias": "Komarapalayam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KRHN",
+            "name": "Krishnagiri",
+            "alias": "Krishnagiri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KUMB",
+            "name": "Kumbakonam",
+            "alias": "Kumbakonam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MADU",
+            "name": "Madurai",
+            "alias": "Madurai",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MAPI",
+            "name": "Manapparai",
+            "alias": "Manapparai",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MRDM",
+            "name": "Marthandam",
+            "alias": "Marthandam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MTPM",
+            "name": "Mettuppalayam",
+            "alias": "Mettuppalayam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MUSI",
+            "name": "Musiri",
+            "alias": "Musiri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NGPT",
+            "name": "Nagapattinam",
+            "alias": "Nagapattinam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NAGE",
+            "name": "Nagercoil",
+            "alias": "Nagercoil",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NMKL",
+            "name": "Namakkal",
+            "alias": "Namakkal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NATH",
+            "name": "Natham",
+            "alias": "Natham",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NYVL",
+            "name": "Neyveli",
+            "alias": "Neyveli",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NIGA",
+            "name": "Nilagiri",
+            "alias": "Nilagiri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NILA",
+            "name": "Nilakottai",
+            "alias": "Nilakottai",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ODDA",
+            "name": "Oddanchatram",
+            "alias": "Oddanchatram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "OOTY",
+            "name": "Ooty",
+            "alias": "Ooty",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PALA",
+            "name": "Palani",
+            "alias": "Palani",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PATU",
+            "name": "Pattukkottai",
+            "alias": "Pattukkottai",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PERA",
+            "name": "Perambalur",
+            "alias": "Perambalur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "POLL",
+            "name": "Pollachi",
+            "alias": "Pollachi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "POND",
+            "name": "Pondicherry",
+            "alias": "Pondicherry",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PUDH",
+            "name": "Pudhukottai",
+            "alias": "Pudhukottai",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PAPT",
+            "name": "Puliampatti",
+            "alias": "Puliampatti",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RAPU",
+            "name": "Ramanathapuram",
+            "alias": "Ramanathapuram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RANI",
+            "name": "Ranipet",
+            "alias": "Ranipet",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SALM",
+            "name": "Salem",
+            "alias": "Salem",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SHVG",
+            "name": "Sivaganga",
+            "alias": "Sivaganga",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SIV",
+            "name": "Sivakasi",
+            "alias": "Sivakasi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SRIV",
+            "name": "Srivilliputhur",
+            "alias": "Srivilliputhur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TAJO",
+            "name": "Tanjore",
+            "alias": "Tanjore",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TENK",
+            "name": "Tenkasi",
+            "alias": "Tenkasi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "THPD",
+            "name": "Thanipadi",
+            "alias": "Thanipadi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TANJ",
+            "name": "Thanjavur",
+            "alias": "Thanjavur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "THEN",
+            "name": "Theni",
+            "alias": "Theni",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "THOO",
+            "name": "Thoothukudi",
+            "alias": "Thoothukudi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TNVM",
+            "name": "Tindivanam",
+            "alias": "Tindivanam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TRCD",
+            "name": "Tiruchendur",
+            "alias": "Tiruchendur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TIRV",
+            "name": "Tirunelveli",
+            "alias": "Tirunelveli",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TRPR",
+            "name": "Tirupattur",
+            "alias": "Tirupattur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TIRP",
+            "name": "Tirupur",
+            "alias": "Tirupur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TRVL",
+            "name": "Tiruvallur",
+            "alias": "Tiruvallur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TVNM",
+            "name": "Tiruvannamalai",
+            "alias": "Tiruvannamalai",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TIVA",
+            "name": "Tiruvarur",
+            "alias": "Tiruvarur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TRIC",
+            "name": "Trichy",
+            "alias": "Trichy",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TTCN",
+            "name": "Tuticorin",
+            "alias": "Tuticorin",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "UDMP",
+            "name": "Udumalpet",
+            "alias": "Udumalpet",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VANI",
+            "name": "Vaniyambadi",
+            "alias": "Vaniyambadi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VELL",
+            "name": "Vellore",
+            "alias": "Vellore",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VILL",
+            "name": "Villupuram",
+            "alias": "Villupuram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VIRU",
+            "name": "Virudhunagar",
+            "alias": "Virudhunagar",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Telangana": [
+        {
+            "code": "ACHM",
+            "name": "Achampet",
+            "alias": "Achampet",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ADIL",
+            "name": "Adilabad",
+            "alias": "Adilabad",
+            "IsCollectionActive": "Y"
+        },
+        {
+            "code": "AMAN",
+            "name": "Amangal",
+            "alias": "Amangal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ASWA",
+            "name": "Aswaraopeta",
+            "alias": "Aswaraopeta",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BELL",
+            "name": "Bellampalli",
+            "alias": "Bellampalli",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BHDR",
+            "name": "Bhadrachalam",
+            "alias": "Bhadrachalam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BHON",
+            "name": "Bhongir",
+            "alias": "Bhongir",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BHUP",
+            "name": "Bhupalpalle",
+            "alias": "Bhupalpalle",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BHUV",
+            "name": "Bhuvanagiri",
+            "alias": "Bhuvanagiri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BNKL",
+            "name": "Bonakal",
+            "alias": "Bonakal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CAND",
+            "name": "Chandur",
+            "alias": "Chandur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHEL",
+            "name": "Chelpur",
+            "alias": "Chelpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHRL",
+            "name": "Cherla",
+            "alias": "Cherla",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHEV",
+            "name": "Chevella",
+            "alias": "Chevella",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHOU",
+            "name": "Choutuppal",
+            "alias": "Choutuppal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DMPT",
+            "name": "Dammapeta",
+            "alias": "Dammapeta",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DPLL",
+            "name": "Dharpally",
+            "alias": "Dharpally",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DBBK",
+            "name": "Dubbaka",
+            "alias": "Dubbaka",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ENKR",
+            "name": "Enkoor",
+            "alias": "Enkoor",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ETNR",
+            "name": "Eturnagaram",
+            "alias": "Eturnagaram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GADW",
+            "name": "Gadwal",
+            "alias": "Gadwal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GDVK",
+            "name": "Godavarikhani",
+            "alias": "Godavarikhani",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HSBD",
+            "name": "Husnabad",
+            "alias": "Husnabad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HZUB",
+            "name": "Huzurabad",
+            "alias": "Huzurabad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HUZU",
+            "name": "Huzurnagar",
+            "alias": "Huzurnagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HYD",
+            "name": "Hyderabad",
+            "alias": "Hyderabad",
+            "IsCollectionActive": "Y"
+        },
+        {
+            "code": "JADC",
+            "name": "Jadcherla",
+            "alias": "Jadcherla",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JGTL",
+            "name": "Jagtial",
+            "alias": "Jagtial",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JMKN",
+            "name": "Jammikunta",
+            "alias": "Jammikunta",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JNGN",
+            "name": "Jangaon",
+            "alias": "Jangaon",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KADT",
+            "name": "Kadthal",
+            "alias": "Kadthal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KALW",
+            "name": "Kalwakurthy",
+            "alias": "Kalwakurthy",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KMLP",
+            "name": "Kamalapur",
+            "alias": "Kamalapur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KMRD",
+            "name": "Kamareddy",
+            "alias": "Kamareddy",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KARIM",
+            "name": "Karimnagar",
+            "alias": "Karimnagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KESA",
+            "name": "Kesamudram",
+            "alias": "Kesamudram",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KHAM",
+            "name": "Khammam",
+            "alias": "Khammam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KHPR",
+            "name": "Khanapur",
+            "alias": "Khanapur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KISM",
+            "name": "Kismatpur",
+            "alias": "Kismatpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KODA",
+            "name": "Kodad",
+            "alias": "Kodad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KCKA",
+            "name": "Korutla",
+            "alias": "Korutla",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KOSG",
+            "name": "Kosgi",
+            "alias": "Kosgi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KTGM",
+            "name": "Kothagudem",
+            "alias": "Kothagudem",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KOTL",
+            "name": "Kothakota",
+            "alias": "Kothakota",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MADR",
+            "name": "Madhira",
+            "alias": "Madhira",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MAHB",
+            "name": "Mahbubnagar",
+            "alias": "Mahbubnagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MANC",
+            "name": "Mancherial",
+            "alias": "Mancherial",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MNGU",
+            "name": "Manuguru",
+            "alias": "Manuguru",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MARR",
+            "name": "Marripeda",
+            "alias": "Marripeda",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MDAK",
+            "name": "Medak",
+            "alias": "Medak",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "METT",
+            "name": "Mettupally",
+            "alias": "Mettupally",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MRGD",
+            "name": "Miryalaguda",
+            "alias": "Miryalaguda",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MOMT",
+            "name": "Mominpet",
+            "alias": "Mominpet",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MULK",
+            "name": "Mulkanoor",
+            "alias": "Mulkanoor",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NGKL",
+            "name": "Nagarkurnool",
+            "alias": "Nagarkurnool",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NALK",
+            "name": "Nalgonda",
+            "alias": "Nalgonda",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NANZ",
+            "name": "Nandipet",
+            "alias": "Nandipet",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NARY",
+            "name": "Narayankhed",
+            "alias": "Narayankhed",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NRYN",
+            "name": "Narayanpet",
+            "alias": "Narayanpet",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NASP",
+            "name": "Narsampet",
+            "alias": "Narsampet",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NIZA",
+            "name": "Nizamabad",
+            "alias": "Nizamabad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PLWA",
+            "name": "Palvancha",
+            "alias": "Palvancha",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PARI",
+            "name": "Parigi",
+            "alias": "Parigi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PARL",
+            "name": "Parkal",
+            "alias": "Parkal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PEDA",
+            "name": "Peddapalli",
+            "alias": "Peddapalli",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PILM",
+            "name": "Pitlam",
+            "alias": "Pitlam",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "POCH",
+            "name": "Pochampally",
+            "alias": "Pochampally",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RYKL",
+            "name": "Raikal",
+            "alias": "Raikal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RAMP",
+            "name": "Ramayampet",
+            "alias": "Ramayampet",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SADA",
+            "name": "Sadasivpet",
+            "alias": "Sadasivpet",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SARE",
+            "name": "Sangareddy",
+            "alias": "Sangareddy",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SARP",
+            "name": "Sarapaka",
+            "alias": "Sarapaka",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SATH",
+            "name": "Sathupally",
+            "alias": "Sathupally",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SCBD",
+            "name": "Secunderabad",
+            "alias": "Secunderabad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SHAD",
+            "name": "Shadnagar",
+            "alias": "Shadnagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SHAN",
+            "name": "Shankarampet",
+            "alias": "Shankarampet",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SKRP",
+            "name": "Shankarpally",
+            "alias": "Shankarpally",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SDDP",
+            "name": "Siddipet",
+            "alias": "Siddipet",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SIRC",
+            "name": "Sircilla",
+            "alias": "Sircilla",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SURY",
+            "name": "Suryapet",
+            "alias": "Suryapet",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TAND",
+            "name": "Tandur",
+            "alias": "Tandur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "THRM",
+            "name": "Thirumalagiri",
+            "alias": "Thirumalagiri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "THOR",
+            "name": "Thorrur",
+            "alias": "Thorrur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VALI",
+            "name": "Valigonda",
+            "alias": "Valigonda",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VERU",
+            "name": "Vemulawada",
+            "alias": "Vemulawada",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VKBD",
+            "name": "Vikarabad",
+            "alias": "Vikarabad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "WANA",
+            "name": "Wanaparthy",
+            "alias": "Wanaparthy",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "WAR",
+            "name": "Warangal",
+            "alias": "Warangal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "YRLL",
+            "name": "Yellandu",
+            "alias": "Yellandu",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "YLLR",
+            "name": "Yellareddy",
+            "alias": "Yellareddy",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ZAGE",
+            "name": "Zaheerabad",
+            "alias": "Zaheerabad",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Thailand": [
+        {
+            "code": "KLNT",
+            "name": "Ko Lanta",
+            "alias": "Ko Lanta",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Tripura": [
+        {
+            "code": "AGAR",
+            "name": "Agartala",
+            "alias": "Agartala",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "UAE": [
+        {
+            "code": "ABDB",
+            "name": "Abu Dhabi",
+            "alias": "Abu Dhabi",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "United Kingdom": [
+        {
+            "code": "EDIN",
+            "name": "Edinburgh",
+            "alias": "Edinburgh",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "UNKD",
+            "name": "United Kingdom",
+            "alias": "United Kingdom",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Uttar Pradesh": [
+        {
+            "code": "AGRA",
+            "name": "Agra",
+            "alias": "Agra",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ALI",
+            "name": "Aligarh",
+            "alias": "Aligarh",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ALLH",
+            "name": "Allahabad",
+            "alias": "Allahabad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "AMRO",
+            "name": "Amroha",
+            "alias": "Amroha",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BADN",
+            "name": "Badaun",
+            "alias": "Badaun",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BHRH",
+            "name": "Bahraich",
+            "alias": "Bahraich",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BARK",
+            "name": "Barabanki",
+            "alias": "Barabanki",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BARE",
+            "name": "Bareilly",
+            "alias": "Bareilly",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BIJ",
+            "name": "Bijnor",
+            "alias": "Bijnor",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BULA",
+            "name": "Bulandshahr",
+            "alias": "Bulandshahr",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DHPR",
+            "name": "Dhampur",
+            "alias": "Dhampur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ETWH",
+            "name": "Etawah",
+            "alias": "Etawah",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "FAZA",
+            "name": "Faizabad",
+            "alias": "Faizabad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "FATE",
+            "name": "Fatehpur",
+            "alias": "Fatehpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "FRZD",
+            "name": "Firozabad",
+            "alias": "Firozabad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GHAR",
+            "name": "Ghazipur",
+            "alias": "Ghazipur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GRKP",
+            "name": "Gorakhpur",
+            "alias": "Gorakhpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HRDI",
+            "name": "Hardoi",
+            "alias": "Hardoi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HANS",
+            "name": "Hasanpur",
+            "alias": "Hasanpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HATH",
+            "name": "Hathras",
+            "alias": "Hathras",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JANP",
+            "name": "Jaunpur",
+            "alias": "Jaunpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JNSI",
+            "name": "Jhansi",
+            "alias": "Jhansi",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KANJ",
+            "name": "Kannauj",
+            "alias": "Kannauj",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KANP",
+            "name": "Kanpur",
+            "alias": "Kanpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KASG",
+            "name": "Kasgunj",
+            "alias": "Kasgunj",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KUSH",
+            "name": "Kushinagar",
+            "alias": "Kushinagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "LKPK",
+            "name": "Lakhimpur Kheri",
+            "alias": "Lakhimpur Kheri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "LUCK",
+            "name": "Lucknow",
+            "alias": "Lucknow",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RAJG",
+            "name": "Maharajganj",
+            "alias": "Maharajganj",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MATH",
+            "name": "Mathura",
+            "alias": "Mathura",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MERT",
+            "name": "Meerut",
+            "alias": "Meerut",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MIZP",
+            "name": "Mirzapur",
+            "alias": "Mirzapur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MORA",
+            "name": "Moradabad",
+            "alias": "Moradabad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MGSI",
+            "name": "Mughalsarai",
+            "alias": "Mughalsarai",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BDPR",
+            "name": "Mungra Badshahpur",
+            "alias": "Mungra Badshahpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MUZ",
+            "name": "Muzaffarnagar",
+            "alias": "Muzaffarnagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NAUT",
+            "name": "Nautanwa",
+            "alias": "Nautanwa",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PAKN",
+            "name": "Palia Kalan",
+            "alias": "Palia Kalan",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PIHI",
+            "name": "Pilibhit",
+            "alias": "Pilibhit",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PIPR",
+            "name": "Pipraich",
+            "alias": "Pipraich",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PRAT",
+            "name": "Pratapgarh (UP)",
+            "alias": "Pratapgarh (UP)",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RAEB",
+            "name": "Raebareli",
+            "alias": "Raebareli",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RAMU",
+            "name": "Rampur",
+            "alias": "Rampur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RENU",
+            "name": "Renukoot",
+            "alias": "Renukoot",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SAHA",
+            "name": "Saharanpur",
+            "alias": "Saharanpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SAML",
+            "name": "Sambhal",
+            "alias": "Sambhal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SHJH",
+            "name": "Shahjahanpur",
+            "alias": "Shahjahanpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SKLG",
+            "name": "Shuklaganj",
+            "alias": "Shuklaganj",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SITA",
+            "name": "Sitapur",
+            "alias": "Sitapur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "UNNA",
+            "name": "Unnao",
+            "alias": "Unnao",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "VAR",
+            "name": "Varanasi",
+            "alias": "Varanasi",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Uttarakhand": [
+        {
+            "code": "ALMO",
+            "name": "Almora",
+            "alias": "Almora",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "CHMK",
+            "name": "Chamoli",
+            "alias": "Chamoli",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DEH",
+            "name": "Dehradun",
+            "alias": "Dehradun",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "GRAH",
+            "name": "Garhwal",
+            "alias": "Garhwal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HALD",
+            "name": "Haldwani",
+            "alias": "Haldwani",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HRDR",
+            "name": "Haridwar",
+            "alias": "Haridwar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KANA",
+            "name": "Kanatal",
+            "alias": "Kanatal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KASH",
+            "name": "Kashipur",
+            "alias": "Kashipur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KCHA",
+            "name": "Kichha",
+            "alias": "Kichha",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KOTD",
+            "name": "Kotdwara",
+            "alias": "Kotdwara",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MSS",
+            "name": "Mussoorie",
+            "alias": "Mussoorie",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NAIN",
+            "name": "Nainital",
+            "alias": "Nainital",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RAMN",
+            "name": "Ramnagar",
+            "alias": "Ramnagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RKES",
+            "name": "Rishikesh",
+            "alias": "Rishikesh",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ROOR",
+            "name": "Roorkee",
+            "alias": "Roorkee",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RUDP",
+            "name": "Rudrapur",
+            "alias": "Rudrapur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SANK",
+            "name": "Sankri",
+            "alias": "Sankri",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Vietnam": [
+        {
+            "code": "VIET",
+            "name": "Vietnam",
+            "alias": "Vietnam",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "Wales": [
+        {
+            "code": "CRD",
+            "name": "Cardiff",
+            "alias": "Cardiff",
+            "IsCollectionActive": "N"
+        }
+    ],
+    "West Bengal": [
+        {
+            "code": "AMBH",
+            "name": "Arambagh",
+            "alias": "Arambagh",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ASANSOL",
+            "name": "Asansol",
+            "alias": "Asansol",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "AURW",
+            "name": "Aurangabad (West Bengal)",
+            "alias": "Aurangabad (West Bengal)",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BAGN",
+            "name": "Bagnan",
+            "alias": "Bagnan",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BAID",
+            "name": "Baidyabati",
+            "alias": "Baidyabati",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BALU",
+            "name": "Balurghat",
+            "alias": "Balurghat",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BSRT",
+            "name": "Barasat",
+            "alias": "Barasat",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BARR",
+            "name": "Barrackpore",
+            "alias": "Barrackpore",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BEHA",
+            "name": "Berhampore",
+            "alias": "Berhampore",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BLPR",
+            "name": "Bolpur",
+            "alias": "Bolpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "BURD",
+            "name": "Burdwan",
+            "alias": "Burdwan",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "COBE",
+            "name": "Cooch Behar",
+            "alias": "Cooch Behar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DAKS",
+            "name": "Dakshin Barasat",
+            "alias": "Dakshin Barasat",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DARJ",
+            "name": "Darjeeling",
+            "alias": "Darjeeling",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DMKL",
+            "name": "Domkal",
+            "alias": "Domkal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DUBR",
+            "name": "Dubrajpur",
+            "alias": "Dubrajpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "DURGA",
+            "name": "Durgapur",
+            "alias": "Durgapur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HLDI",
+            "name": "Haldia",
+            "alias": "Haldia",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HOOG",
+            "name": "Hooghly",
+            "alias": "Hooghly",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "HWRH",
+            "name": "Howrah",
+            "alias": "Howrah",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JGDL",
+            "name": "Jagatdal",
+            "alias": "Jagatdal",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JPG",
+            "name": "Jalpaiguri",
+            "alias": "Jalpaiguri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "JAGJ",
+            "name": "Jiaganj",
+            "alias": "Jiaganj",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KALI",
+            "name": "Kalimpong",
+            "alias": "Kalimpong",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KALY",
+            "name": "Kalyani",
+            "alias": "Kalyani",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KGPR",
+            "name": "Kharagpur",
+            "alias": "Kharagpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "KOLK",
+            "name": "Kolkata",
+            "alias": "Kolkata",
+            "IsCollectionActive": "Y"
+        },
+        {
+            "code": "KNWB",
+            "name": "Krishnanagar",
+            "alias": "Krishnanagar",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MNWS",
+            "name": "Mandarmoni",
+            "alias": "Mandarmoni",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MAYN",
+            "name": "Moyna",
+            "alias": "Moyna",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "MURS",
+            "name": "Murshidabad",
+            "alias": "Murshidabad",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RAMS",
+            "name": "Namkhana",
+            "alias": "Namkhana",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "NAZR",
+            "name": "Nazirpur",
+            "alias": "Nazirpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "PURU",
+            "name": "Purulia",
+            "alias": "Purulia",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RAGH",
+            "name": "Raghunathganj",
+            "alias": "Raghunathganj",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RANA",
+            "name": "Ranaghat",
+            "alias": "Ranaghat",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RNGJ",
+            "name": "Raniganj",
+            "alias": "Raniganj",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "RSRA",
+            "name": "Rishra",
+            "alias": "Rishra",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SHNC",
+            "name": "Shankarpur",
+            "alias": "Shankarpur",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "SILI",
+            "name": "Siliguri",
+            "alias": "Siliguri",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "TTGH",
+            "name": "Titagarh",
+            "alias": "Titagarh",
+            "IsCollectionActive": "N"
+        },
+        {
+            "code": "ULUR",
+            "name": "Uluberia",
+            "alias": "Uluberia",
+            "IsCollectionActive": "N"
+        }
+    ]
+}
