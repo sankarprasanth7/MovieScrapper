@@ -9,7 +9,7 @@ import org.elasticsearch.client.Client;
 import org.elasticsearch.client.transport.TransportClient;
 import org.elasticsearch.common.settings.Settings;
 import org.elasticsearch.common.transport.InetSocketTransportAddress;
-import org.elasticsearch.shield.ShieldPlugin;
+import org.elasticsearch.transport.client.PreBuiltTransportClient;
 
 import com.compare.movie.MovieScrapper.trending.Trending;
 
@@ -24,16 +24,12 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-		Settings settings = Settings.settingsBuilder()
-
-				.put("cluster.name", "movie-cluster")
-//				.put("client.transport.sniff", true)
-				.put("transport.tcp.port", "9300").build();
+		Settings settings = Settings.builder()
+		        .put("cluster.name", "movie-cluster").put("transport.tcp.port", "9300").build();
 		try {
-			transportClient = TransportClient.builder().addPlugin(ShieldPlugin.class).settings(settings).build()
-					.addTransportAddress(new InetSocketTransportAddress(
-							InetAddress.getByName("35.199.39.211"), 9300))
-					.addTransportAddress(new InetSocketTransportAddress(new InetSocketAddress("127.0.0.1", 9300)));
+			transportClient = new PreBuiltTransportClient(settings)
+			        .addTransportAddress(new InetSocketTransportAddress(InetAddress.getByName("35.196.156.95"), 9300))
+			        .addTransportAddress(new InetSocketTransportAddress(InetAddress.getByName("127.0.0.1"), 9300));
 		} catch (UnknownHostException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
