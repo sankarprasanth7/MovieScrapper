@@ -6,6 +6,7 @@ import java.net.URISyntaxException;
 import java.util.Iterator;
 import java.util.concurrent.ExecutionException;
 
+import org.apache.commons.lang.StringUtils;
 import org.apache.http.HttpException;
 import org.elasticsearch.action.index.IndexRequest;
 import org.elasticsearch.action.update.UpdateRequest;
@@ -23,11 +24,13 @@ import com.compare.movie.MovieScrapper.upcomming.UpCommingMovies;
 
 public class Trending {
 	public static TrendingExecutor executor;
+
 	public Trending() {
 		super();
 		App.init();
 		executor = new TrendingExecutor();
 	}
+
 	public static void getTrendingMovies() {
 		JSONParser parser = new JSONParser();
 		String data;
@@ -45,9 +48,7 @@ public class Trending {
 					if (obj.has("BookmyshowUrl")) {
 						Document doc = Utilities.getDataInPage(obj.getString("BookmyshowUrl"));
 						executor.submitForProcessing(obj.getString("BookmyshowUrl"), city, doc);
-//						getTrendingMoviesBMS(city, doc, obj.getString("BookmyshowUrl"));
-						// UpCommingMovies.getUpCommingMoviesBMS(city, doc,
-						// obj.getString("BookmyshowUrl"));
+//						UpCommingMovies.getUpCommingMoviesBMS(city, doc, obj.getString("BookmyshowUrl"));
 					}
 				}
 			}
@@ -64,7 +65,8 @@ public class Trending {
 				.select(".carousel-now-showing > .viewport > .banner-container > .movie-card >.card-container");
 		for (Element e : nowShowing) {
 			JSONObject obj = new JSONObject();
-			String movieName = e.select(".detail.detail-scroll > div > a.__movie-name").text().toLowerCase().replaceAll(" ", "_");
+			String movieName = e.select(".detail.detail-scroll > div > a.__movie-name").text().toLowerCase()
+					.replaceAll(" ", "_");
 			obj.put("movie_name", movieName);
 			String infoUrl = "https://in.bookmyshow.com"
 					+ e.select(".detail.detail-scroll > div > a.__movie-name").attr("href");
@@ -82,15 +84,16 @@ public class Trending {
 			obj.put("generes", generes);
 			Trending t = new Trending();
 			JSONObject modifiedObject = t.getMovieInfo(infoUrl, obj);
-			if(!App.movies.contains(movieName)){
+			if (!App.movies.contains(movieName)) {
 				App.movies.add(movieName);
-				ElasticUtilities.addMovie("movies", "movieInfo", modifiedObject.getString("movie_name"), modifiedObject);
+				ElasticUtilities.addMovie("movies", "movieInfo", modifiedObject.getString("movie_name"),
+						modifiedObject);
 			}
 			String bookingUrl = e.select(".book-button > a").attr("href");
-			if(bookingUrl.length() > 0){
-				trending.put("show_times", "https://in.bookmyshow.com"+bookingUrl);
-			}else{
-				trending.put("show_times", "https://in.bookmyshow.com"+e.select("a.more-showtimes").attr("href"));
+			if (bookingUrl.length() > 0) {
+				trending.put("show_times", "https://in.bookmyshow.com" + bookingUrl);
+			} else {
+				trending.put("show_times", "https://in.bookmyshow.com" + e.select("a.more-showtimes").attr("href"));
 			}
 			trending.put("city", city);
 			trending.put("poster_image", modifiedObject.getString("poster_image"));
@@ -122,6 +125,9 @@ public class Trending {
 		obj.put("user_rating", doc.select(".user-rating > .__rating > ul").attr("data-value"));
 		obj.put("poster_image", doc.select(".poster-container > .poster > meta").attr("content"));
 		obj.put("synopsis", doc.select(".synopsis").text());
+		obj.put("trailer", doc.select("meta[itemprop=target]").attr("content").replace("watch?v=", "embed/"));
+		obj.put("banner",
+				StringUtils.substringBetween(doc.select("#imgBanner").attr("style"), "(", ")").replaceAll("'", ""));
 		Elements castEle = doc.select("#cast > .cast-members > .showcase-carousel > span");
 		Elements crewEle = doc.select("#crew > .cast-members > .showcase-carousel > span");
 		for (Element e : castEle) {
