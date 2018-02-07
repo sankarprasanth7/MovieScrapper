@@ -10,7 +10,10 @@ import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.net.URISyntaxException;
 import java.util.Iterator;
+import java.util.UUID;
+
 import org.json.simple.parser.JSONParser;
+import org.apache.commons.lang.WordUtils;
 import org.apache.http.HttpException;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.HttpClient;
@@ -25,6 +28,10 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 public class Utilities {
+	public static void main(String args[]){
+		getlocations("bookmyshow");
+//		getlocations("ticketnew");
+	}
 	public static Document getDataInPage(String url) {
 		Document doc = null;
 		Connection.Response response = null;
@@ -72,13 +79,19 @@ public class Utilities {
 			Document doc = Utilities.getDataInPage("http://www.ticketnew.com/");
 			Elements cities = doc.select("div#allCities > div");
 			for (Element e : cities) {
-				String mainCity = e.select("p").text().replaceAll(" ", "_").toLowerCase();
+				String mainCity = e.select("p").text();
 				Elements subCities = e.select("ul > li");
-				JSONObject obj = new JSONObject();
 				for (Element e1 : subCities) {
-					obj.put(e1.text().replaceAll(" ", "_").toLowerCase(), e1.select("a").attr("href"));
+					JSONObject obj = new JSONObject();
+					obj.put("city_key", e1.text().replaceAll(" ", "_").toLowerCase());
+					obj.put("city_name", e1.text());
+					obj.put("city_url", e1.select("a").attr("href"));
+					obj.put("maincity", mainCity);
+					String id = UUID.randomUUID().toString();
+					obj.put("_id", id);
+					citiesData.put(id, obj);
+//					citiesData.put(UUID.randomUUID().toString(),obj);
 				}
-				citiesData.put(mainCity, obj);
 			}
 			addToFile(citiesData, "src/main/resources/ticketnew_data.json", "src/main/resources/");
 		}
@@ -93,14 +106,19 @@ public class Utilities {
 				while (itr.hasNext()) {
 					String mainCity = (String) itr.next();
 					JSONArray bmsCities = bmsData.getJSONArray(mainCity);
-					JSONObject obj = new JSONObject();
 					for (int i = 0; i < bmsCities.length(); i++) {
+						JSONObject obj = new JSONObject();
 						String city = bmsCities.getJSONObject(i).getString("name").replaceAll(" ", "-")
 								.replaceAll("\\)", "").replaceAll("\\(", "").toLowerCase();
-						obj.put(city.replace("-", "_"), "https://in.bookmyshow.com/" + city);
+//						obj.put("city_url", "https://in.bookmyshow.com/" + city);
+						obj.put("city_key", city.replace("-", "_"));
+						obj.put("city_name", WordUtils.capitalizeFully(city.replace("-", " ")));
+						obj.put("maincity", mainCity);
+						String id = UUID.randomUUID().toString();
+						obj.put("_id", id);
+						citiesData.put(id, obj);
 					}
-					citiesData.put(mainCity.replaceAll(" ", "_").toLowerCase(), obj);
-					addToFile(citiesData, "src/main/resources/bookmyshow_data.json", "src/main/resources/");
+					addToFile(citiesData, "src/main/resources/mymovieplan_data.json", "src/main/resources/");
 				}
 			} catch (Exception e) {
 				e.printStackTrace();

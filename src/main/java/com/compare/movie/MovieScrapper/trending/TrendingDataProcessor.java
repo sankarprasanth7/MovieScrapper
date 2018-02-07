@@ -93,6 +93,7 @@ public class TrendingDataProcessor implements Runnable {
 			}
 			trending.put("city", city);
 			trending.put("poster_image", modifiedObject.getString("poster_image"));
+			trending.put("movie_key", modifiedObject.getString("movie_key"));
 			trending.put("movie_name", modifiedObject.getString("movie_name"));
 			trending.put("percentage", modifiedObject.get("percentage"));
 			trending.put("user_rating", modifiedObject.getString("user_rating"));
@@ -153,75 +154,5 @@ public class TrendingDataProcessor implements Runnable {
 			System.out.println(upcomming);
 			ElasticUtilities.addMovie("upcomming", city, modifiedObject.getString("movie_name"), upcomming);
 		}
-	}
-	public JSONObject getMovieInfo(String url, JSONObject obj) {
-		JSONArray cast = new JSONArray();
-		JSONArray crew = new JSONArray();
-		JSONArray criticReviews = new JSONArray();
-		obj.remove("city");
-		Document doc = Utilities.getDataInPage(url);
-		obj.put("votes", doc.select("div.heart-rating > .__votes").text());
-		obj.put("release_date", doc.select("span.__release-date").text());
-		String percentage =  doc.select("div.heart-rating > .__percentage").text().replaceAll("%", "");
-		if(percentage.length() > 0)
-		obj.put("percentage",Integer.parseInt(percentage));
-		else
-			obj.put("percentage",75);
-		obj.put("critic_rating", doc.select(".critic-rating > .__rating > ul").attr("data-value"));
-		obj.put("user_rating", doc.select(".user-rating > .__rating > ul").attr("data-value"));
-		obj.put("poster_image", doc.select(".poster-container > .poster > meta").attr("content"));
-		obj.put("synopsis", doc.select(".synopsis").text());
-		obj.put("trailer", doc.select("meta[itemprop=target]").attr("content").replaceAll("watch?v=", "embed/"));
-		obj.put("banner",
-				StringUtils.substringBetween(doc.select("#imgBanner").attr("style"), "(", ")").replaceAll("'", ""));
-		Elements castEle = doc.select("#cast > .cast-members > .showcase-carousel > span");
-		Elements crewEle = doc.select("#crew > .cast-members > .showcase-carousel > span");
-		for (Element e : castEle) {
-			JSONObject object = new JSONObject();
-			object.put("actor", e.select(".__cast-member").attr("content"));
-			object.put("image", "http:" + e.select(".__cast-image > img").attr("data-lazy"));
-			object.put("role", e.select(".__role").text());
-			object.put("character_name", e.select(".__characterName").text());
-			cast.put(object);
-		}
-		for (Element e : crewEle) {
-			JSONObject object = new JSONObject();
-			object.put("actor", e.select(".__cast-member").attr("content"));
-			object.put("image", "http:" + e.select(".__cast-image > img").attr("data-lazy"));
-			object.put("role", e.select(".__role").text());
-			object.put("character_name", e.select(".__characterName").text());
-			crew.put(object);
-		}
-		obj.put("cast", cast);
-		obj.put("crew", crew);
-		try {
-			String reviews = Utilities
-					.doGet("https://in.bookmyshow.com/serv/getData.bms?cmd=GETREVIEWSGROUP&eventGroupCode="
-							+ obj.getString("event_group_code") + "&type=UR&pageNum=1&perPage=9&sort=POPULAR");
-			if(reviews.startsWith("{")){
-				JSONObject reviewsObj = new JSONObject(reviews);
-				// System.out.println(reviewsObj);
-				if (reviewsObj.get("data") instanceof JSONObject) {
-					for (int i = 0; i < reviewsObj.getJSONObject("data").getJSONArray("Reviews").length(); i++) {
-						reviewsObj.getJSONObject("data").getJSONArray("Reviews").getJSONObject(i).remove("EventCode");
-						reviewsObj.getJSONObject("data").getJSONArray("Reviews").getJSONObject(i).remove("Verified");
-						reviewsObj.getJSONObject("data").getJSONArray("Reviews").getJSONObject(i).remove("ReviewId");
-					}
-					obj.put("user_reviews", reviewsObj.getJSONObject("data").getJSONArray("Reviews"));
-				}
-			}
-			Elements critics = doc.select("#mv-critic > .mv-synopsis-review > div");
-			for (Element e : critics) {
-				JSONObject critic = new JSONObject();
-				critic.put("reviewer_name", e.select(".__reviewer-name-rate > .__reviewer-left > #critic_").text());
-				critic.put("reviewer_text", e.select(".__reviewer-text > span").text());
-				criticReviews.put(critic);
-			}
-			obj.put("critic_reviews", criticReviews);
-		} catch (HttpException | IOException | URISyntaxException e1) {
-			// TODO Auto-generated catch block
-			e1.printStackTrace();
-		}
-		return obj;
 	}
 }

@@ -35,22 +35,16 @@ public class Trending {
 		JSONParser parser = new JSONParser();
 		String data;
 		try {
-			data = (String) parser.parse(new FileReader("src/main/resources/mymovieplan_data.json")).toString();
+			data = (String) parser.parse(new FileReader("src/main/resources/bookmyshow_data.json")).toString();
 			JSONObject citiesData = new JSONObject(data);
 			Iterator itr = citiesData.keys();
 			while (itr.hasNext()) {
-				String mainCity = (String) itr.next();
-				JSONObject cities = citiesData.getJSONObject(mainCity);
-				Iterator itr1 = cities.keys();
-				while (itr1.hasNext()) {
-					String city = (String) itr1.next();
-					JSONObject obj = cities.getJSONObject(city);
-					if (obj.has("BookmyshowUrl")) {
-						Document doc = Utilities.getDataInPage(obj.getString("BookmyshowUrl"));
-						executor.submitForProcessing(obj.getString("BookmyshowUrl"), city, doc);
-//						UpCommingMovies.getUpCommingMoviesBMS(city, doc, obj.getString("BookmyshowUrl"));
-					}
-				}
+				String key = (String) itr.next();
+				JSONObject city = citiesData.getJSONObject(key);
+					Document doc = Utilities.getDataInPage(city.getString("city_url"));
+					executor.submitForProcessing(city.getString("city_url"), city.getString("city_key"), doc);
+					// UpCommingMovies.getUpCommingMoviesBMS(city, doc,
+					// obj.getString("BookmyshowUrl"));
 			}
 			System.out.println("getting data for movies is completed");
 		} catch (Exception e) {
@@ -116,11 +110,11 @@ public class Trending {
 		Document doc = Utilities.getDataInPage(url);
 		obj.put("votes", doc.select("div.heart-rating > .__votes").text());
 		obj.put("release_date", doc.select("span.__release-date").text());
-		String percentage =  doc.select("div.heart-rating > .__percentage").text().replaceAll("%", "");
-		if(percentage.length() > 0)
-		obj.put("percentage",Integer.parseInt(percentage));
+		String percentage = doc.select("div.heart-rating > .__percentage").text().replaceAll("%", "");
+		if (percentage.length() > 0)
+			obj.put("percentage", Integer.parseInt(percentage));
 		else
-			obj.put("percentage",75);
+			obj.put("percentage", 75);
 		obj.put("critic_rating", doc.select(".critic-rating > .__rating > ul").attr("data-value"));
 		obj.put("user_rating", doc.select(".user-rating > .__rating > ul").attr("data-value"));
 		obj.put("poster_image", doc.select(".poster-container > .poster > meta").attr("content"));
@@ -152,7 +146,7 @@ public class Trending {
 			String reviews = Utilities
 					.doGet("https://in.bookmyshow.com/serv/getData.bms?cmd=GETREVIEWSGROUP&eventGroupCode="
 							+ obj.getString("event_group_code") + "&type=UR&pageNum=1&perPage=9&sort=POPULAR");
-			if(reviews.startsWith("{")){
+			if (reviews.startsWith("{")) {
 				JSONObject reviewsObj = new JSONObject(reviews);
 				// System.out.println(reviewsObj);
 				if (reviewsObj.get("data") instanceof JSONObject) {
