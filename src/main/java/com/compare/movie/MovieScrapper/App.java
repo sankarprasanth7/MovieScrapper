@@ -28,7 +28,7 @@ public class App
 		        .put("cluster.name", "movie-cluster").put("transport.tcp.port", "9300").build();
 		try {
 			transportClient = new PreBuiltTransportClient(settings)
-			        .addTransportAddress(new InetSocketTransportAddress(InetAddress.getByName("35.196.156.95"), 9300))
+			        .addTransportAddress(new InetSocketTransportAddress(InetAddress.getByName("35.196.31.116"), 9300))
 			        .addTransportAddress(new InetSocketTransportAddress(InetAddress.getByName("127.0.0.1"), 9300));
 		} catch (UnknownHostException e) {
 			// TODO Auto-generated catch block
